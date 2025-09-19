@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\cosmosmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\cosmosmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\views\\home\\viewtodos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\views\\home\\viewtodos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\views\\home\\addtodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\views\\home\\addtodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\models\\configmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\models\\configmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|c:\\livesessionkoenig\\az204_fujitsu\\az204-fujitsu\\day5\\cosmosmvcapp\\cosmosmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A55759D-7F7C-43B2-9F94-8AAD178727B8}|CosmosMVCApp\\CosmosMVCApp.csproj|solutionrelative:cosmosmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\Models\\Todo.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Models\\Todo.cs",
+              "RelativeToolTip": "CosmosMVCApp\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:39:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\appsettings.json",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\appsettings.json",
+              "RelativeToolTip": "CosmosMVCApp\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-20T10:36:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosmosMVCApp.csproj",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\CosmosMVCApp.csproj",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\CosmosMVCApp.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\CosmosMVCApp.csproj",
+              "RelativeToolTip": "CosmosMVCApp\\CosmosMVCApp.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-20T10:31:45.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\Services\\TodoService.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Services\\TodoService.cs",
+              "RelativeToolTip": "CosmosMVCApp\\Services\\TodoService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:31:36.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Program.cs",
+              "RelativeToolTip": "CosmosMVCApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:30:59.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CosmosMVCApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:37:12.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewTodos.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Views\\Home\\ViewTodos.cshtml",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\Views\\Home\\ViewTodos.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Views\\Home\\ViewTodos.cshtml",
+              "RelativeToolTip": "CosmosMVCApp\\Views\\Home\\ViewTodos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T10:38:23.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTodo.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Views\\Home\\AddTodo.cshtml",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\Views\\Home\\AddTodo.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Views\\Home\\AddTodo.cshtml",
+              "RelativeToolTip": "CosmosMVCApp\\Views\\Home\\AddTodo.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T10:42:40.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigModel.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Models\\ConfigModel.cs",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\Models\\ConfigModel.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Models\\ConfigModel.cs",
+              "RelativeToolTip": "CosmosMVCApp\\Models\\ConfigModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:30:29.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CosmosMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LiveSessionKoenig\\Az204_Fujitsu\\az204-fujitsu\\Day5\\CosmosMVCApp\\CosmosMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CosmosMVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T10:39:07.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
